@@ -72,3 +72,11 @@ MariaDB Database
 
 ### MariaDB Configuration
 ![MariaDB](screenshots/mariadb-config.png)
+**4. [wordpress4]**
+![Screenshot 4](screenshots/wordpress4.png)
+
+**5. [wordpress5]**
+![Screenshot 5](screenshots/wordpress5.png)
+
+**6. [wordpress6]**
+![Screenshot 6](screenshots/wordpress6.png)
